@@ -1,0 +1,15 @@
+h1 {
+    font-size: 15rem;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.letters {
+    transition: color 1000ms;
+}
